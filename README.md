@@ -4,5 +4,5 @@
 * Juliana Zambon
 * Pedro Domingos Tricossi dos Santos
 
-**Disciplina:** Visão Computacional e Percepção 
+**Disciplina:** Visão Computacional e Percepção  
 **Instituição:** Universidade Federal do Paraná (UFPR)
